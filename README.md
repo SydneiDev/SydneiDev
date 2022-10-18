@@ -1,5 +1,5 @@
 -👋 Olá! Sou Sydnei Pereira e atualmente estou em transição de carreira com dedicação nos estudos para
-            futuramente ser um Desenvolvedor de Blockchain. Em janeiro/2021 tomei a decisão de estudar por conta própria
+            futuramente ser um Desenvolvedor de Blockchain. Em janeiro/2022 tomei a decisão de estudar por conta própria
             fazendo diversos cursos, Sou pós graduado em Blockchain e Smart contract pela Annhanguerra e continuo meus estudos, tendo em mente que estamos sempre em constante aprendizado.
             
   Repositório em construção.   
