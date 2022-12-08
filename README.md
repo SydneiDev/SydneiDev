@@ -8,11 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SydneiDev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-I am a Full-stack Web Developer who is delving deeper into Javascript on a daily basis.
- 
-
----
-
 
 #### Tech & Tools Preference
 <p>
@@ -29,12 +24,7 @@ I am a Full-stack Web Developer who is delving deeper into Javascript on a daily
 
 </p>
         
-       
-### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+
 
 
 ### Studying in this moment:
